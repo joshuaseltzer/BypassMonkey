@@ -1,6 +1,6 @@
 Package: nl.bypass.jailmonkey
 Name: bypassmonkey
-Version: 0.0.1
+Version: 1.0.0-cobra2168
 Architecture: iphoneos-arm
 Description: Bypass JailMonkey jailbreak detection
 Maintainer: Jasper

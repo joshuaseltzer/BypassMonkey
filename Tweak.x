@@ -1,15 +1,18 @@
 %hook JailMonkey
 
-- (BOOL)isJailBroken{
-	return 0;
+- (BOOL)isJailBroken
+{
+	return NO;
 }
 
-- (BOOL)canMockLocation{
-	return 0;
+- (BOOL)canMockLocation
+{
+	return NO;
 }
 
-- (BOOL)isDebugged{
-	return 0;
+- (BOOL)isDebugged
+{
+	return NO;
 }
 
 %end
